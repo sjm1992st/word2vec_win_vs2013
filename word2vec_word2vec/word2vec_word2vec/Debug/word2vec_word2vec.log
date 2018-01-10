@@ -1,0 +1,67 @@
+﻿生成启动时间为 2017/3/6 10:54:31。
+     1>项目“C:\Users\user\Desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec_word2vec.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\word2vec_word2vec.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt word2vec.c
+         word2vec.c
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(53): warning C4305: “初始化”: 从“double”到“real”截断
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(61): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(69): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(69): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(71): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(71): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(76): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(76): warning C4244: “+=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(78): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(110): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(143): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(147): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(148): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(153): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(161): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(163): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(179): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(215): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(216): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(217): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(219): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(259): warning C4244: “=”: 从“__int64”转换到“char”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(265): warning C4244: “=”: 从“__int64”转换到“char”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(266): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(269): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(306): warning C4101: “len_”: 未引用的局部变量
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(503): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(506): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(512): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(523): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(530): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(500): warning C4101: “mlen_B”: 未引用的局部变量
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(500): warning C4101: “mlen_”: 未引用的局部变量
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(546): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(547): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(549): warning C4244: “函数”: 从“__int64”转换到“long”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(562): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(573): warning C4244: “初始化”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(590): warning C4244: “函数”: 从“__int64”转换到“long”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(747): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(748): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(749): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(751): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(766): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(860): warning C4305: “=”: 从“double”到“real”截断
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(861): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(864): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(880): warning C4244: “函数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(884): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(294): warning C4715: “astrcmp”: 不是所有的控件路径都返回值
+     1>c:\users\user\desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec.c(719): warning C4716: “TrainModelThread”: 必须返回一个值
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\大脑模拟实验\wordppt\word2vec_word2vec\Debug\word2vec_word2vec.exe" /INCREMENTAL /NOLOGO pthreadVC2.lib "gio-2.0.lib" "glib-2.0.lib" "gthread-2.0.lib" "gmodule-2.0.lib" "gobject-2.0.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Desktop\大脑模拟实验\wordppt\word2vec_word2vec\Debug\word2vec_word2vec.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\大脑模拟实验\wordppt\word2vec_word2vec\Debug\word2vec_word2vec.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\word2vec.obj
+         word2vec_word2vec.vcxproj -> C:\Users\user\Desktop\大脑模拟实验\wordppt\word2vec_word2vec\Debug\word2vec_word2vec.exe
+     1>已完成生成项目“C:\Users\user\Desktop\大脑模拟实验\wordppt\word2vec_word2vec\word2vec_word2vec\word2vec_word2vec.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.15

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>time ./word2vec -train ../linux_sh/test/all_wiki_cut_w.txt -train-cx ../linux_sh/test/all_wiki_cut_c.txt -output ../linux_sh/test/gen.txt -switch-value 0 -cbow 1 -alpha 0.025 -size 100 -window 5 -negative 0 -hs 1 -min-count 5 -sample 1e-4 -threads 8 -binary 0 -iter 10</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
